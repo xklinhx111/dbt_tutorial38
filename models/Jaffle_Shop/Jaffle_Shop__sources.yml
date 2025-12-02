@@ -1,0 +1,10 @@
+sources:
+  - name: jaffle_shop
+    schema: raw
+    tables:
+      - name: customers
+      - name: items
+      - name: products
+      - name: orders
+      - name: stores
+      - name: supplies
